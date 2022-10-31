@@ -6,6 +6,5 @@ Can be used to monitor uptime of servers/services
 
 <ul>
   <li>Go,</li>
-  <li>Python,</li>
-  <li>PHP</li>
+  <li>Python</li>
 </ul>
