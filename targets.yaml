@@ -1,0 +1,16 @@
+--- 
+vimexx_nl: 
+  host: vimexx.nl
+  port: 80
+
+serverius_nl:
+  host: serverius.net
+  port: 80
+
+github_com:
+  host: github.com
+  port: 22
+
+inexistant_host:
+  host: localhost
+  port: 1337
